@@ -1,6 +1,6 @@
 Hello,I'm Prachi Gupta 👋 
 - 👀 I’m an Open-Source enthusiast and pursuing computer science 
-- 🌱 I’m currently learning html & css
+- 🌱 I’m currently learning AI & ML
 - 📫 How to reach me prachiannie17@gmail.com
 
 <!---
